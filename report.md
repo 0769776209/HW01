@@ -104,6 +104,20 @@
 ![alt text](image-9.png)
 * **AI Impact:** Highlights the non-code branch of QA. While decoupled from automated testing scripts, these governance roles require tech and data literacy to effectively audit AI-driven engineering teams.
 
+### AI Tool QA/QC Role Mindmap and 3 Mistakes Found
+
+**Mindmap:** ![alt text](image-19.png)
+
+**Three mistakes I found in the AI mindmap:**
+1. Debugging belongs to Developers, not Testers:
+Testers only find and report bugs. Finding the cause of the bug and fixing the code is the job of developers.
+
+1. Component testing is usually done by Developers:
+Component (or Unit) testing is done by developers when they write code. Testers usually start at higher levels, like System testing.
+
+1. Mixed-up categories:
+The main topic is "QA / QC Roles" (People), but the map mixes people (Tester, Manager) with actions (Defect Detection, Audits). It makes the map confusing.
+
 ## Requirement 2
 
 Below is a compiled list of 20 notable software defects from 2022 to 2026. The first 7 entries are AI/LLM-related incidents. The mandatory requirement for identifying an AI bias/hallucination blind spot when explaining the defect is integrated into the final column for all 20 entries.
@@ -151,7 +165,7 @@ Below is a compiled list of 20 notable software defects from 2022 to 2026. The f
 
 Submit **1 photo** showing the **GOOJODOQ GFS001 fan and student ID card in the same frame**.
 
-Suggested filename: `device_with_student_id.jpg`
+[PHYSICAL DEVICE + STUDENT CARD](./minhchung.png)
 
 ### Video Evidence Requirement
 
@@ -179,6 +193,7 @@ Recommended test cases to record: **TC-001, TC-002, TC-003, TC-004, TC-005**.
 |---|---|---|---|---|---|---|
 | TC-001 | Verify that the fan powers on correctly. | Fan with battery charged above 20%. | 1. Hold the fan normally. <br> 2. Press the power button once. <br> 3. Observe the fan blade and LED display. | Fan turns on, blade starts spinning, and LED display shows battery/speed information. | Fan turned on; LED displayed info | Pass |
 | TC-002 | Verify that the fan powers off correctly. | Fan is already running. | 1. Turn on the fan. <br> 2. Press and hold or press the power button according to normal usage. <br> 3. Observe the fan blade and display. | Fan stops spinning and the LED display turns off. | Fan turned off vs blade stopped | Pass |
+| TC-003 | Verify that fan speed can be increased. | Fan is turned on at a low speed level. | 1. Turn on the fan. <br> 2. Press the speed increase button several times. <br> 3. Observe airflow, sound, and LED speed value. | Speed value increases on the LED display and airflow becomes stronger. | Speed increased; airflow became stronger | Pass |
 | TC-004 | Verify that fan speed can be decreased. | Fan is turned on at a high speed level. | 1. Set fan to a higher speed. <br> 2. Press the speed decrease button several times. <br> 3. Observe airflow, sound, and LED speed value. | Speed value decreases on the LED display and airflow becomes weaker. | Speed decreased; airflow weaker | Pass |
 | TC-005 | Verify that the LED display shows clearly. | Fan powered on, battery not empty. | 1. Turn on the fan. <br> 2. Change speed level. <br> 3. Observe the LED display. | LED display clearly shows fan speed or battery status in real time. | One segment of the LED display is missing | Fail |
 | TC-006 | Verify USB Type-C charging function. | USB-C cable vs laptop as battery source | 1. Connect USB-C cable to the fan. <br> 2. Connect the other end to the laptop. <br> 3. Observe LED charging indication. | Fan enters charging mode and LED shows charging/battery status. | Fan charged; LED showed status | Pass |
@@ -196,17 +211,33 @@ Recommended test cases to record: **TC-001, TC-002, TC-003, TC-004, TC-005**.
 
 ## Executed Test Case Evidence Log
 
-Fill this table after recording the real-device videos.
-
 | Test Case ID | Video Filename | Duration | Actual Result Summary | Verdict |
 |---|---|---:|---|---|
-| TC-001 | `TC-001_power_on.mp4` | ≤ 60s | Fan turned on; LED displayed info. | Pass |
-| TC-002 | `TC-002_power_off.mp4` | ≤ 60s | Fan turned off; blade stopped. | Pass |
-| TC-003 | `TC-003_speed_increase.mp4` | ≤ 60s | Speed increased; airflow stronger. | Pass |
-| TC-004 | `TC-004_speed_decrease.mp4` | ≤ 60s | Speed decreased; airflow weaker. | Pass |
-| TC-005 | `TC-005_led_display.mp4` | ≤ 60s | LED showed speed/battery clearly. | Pass |
+| TC-001 | [link](https://youtube.com/shorts/t0WQLlVMuxU) | ≤ 60s | Fan turned on; LED displayed info. | Pass |
+| TC-002 | [link](https://youtube.com/shorts/S9IPc6Baanw?feature=share) | ≤ 60s | Fan turned off; blade stopped. | Pass |
+| TC-003 | [link](https://youtube.com/shorts/9LDMiMjouaU) | ≤ 60s | Speed increased; airflow stronger. | Pass |
+| TC-004 | [link](https://youtube.com/shorts/4S4EsrKwy_0) | ≤ 60s | Speed decreased; airflow weaker. | Pass |
+| TC-005 | [link](https://youtube.com/shorts/3NVAcsE9Nhg) | ≤ 60s | LED showed not clearly. | Fail |
 
 ---
+
+## AI Missed Edge Cases
+
+**AI conversation screenshot requirement:** 
+Output evidence that AI did not generate this section
+(the prompt I did not tell AI to generate include edge cases)
+![alt text](image-10.png)
+![alt text](image-11.png)
+[md file that AI send me](./Goojodoq_GFS001_QA_Test_Cases.md)
+
+- Pressing `+` and `-` very fast.
+- Plugging the charger while the fan is already running.
+- Pressing buttons when the physical switch is off.
+
+These cases are important because real users may use the fan quickly, charge it during operation, or keep it inside a bag
+
+**explanation:**  
+AI missed these cases because it only focused on normal feature tests and some happy paths. It did not think about edge cases: fast press actions, charging during use or storage safety. Maybe because of AI is lack of human experience so it cannot cover those cases.
 
 ## Notes for Submission
 
@@ -216,3 +247,68 @@ Fill this table after recording the real-device videos.
 3. Record at least 5 videos, each 60 seconds or less.
 4. Fill in the **Actual Result** and **Verdict** columns after testing.
 5. Do not claim a test case passed unless it was executed on the real device.
+
+---
+
+## Appendix A - AI Audit Report
+
+| Item | Content |
+|---|---|
+| (1) Prompt + tool | **Tool:** ChatGPT<br>**Timestamp:** `[8:19 4/6/2026]`<br>**Prompt:** "Requirement 3 – Test cases for ONE physical product (40 pts) Choose a SPECIFIC household device (fan / water filter / rice cooker / smart bulb…). Submit 1 photo of THE DEVICE + your student ID card in the SAME frame. Declare brand, model, year, serial number (mask the middle 4 chars). HW01 – QA/QC Jobs · 20 Defects · Test a Physical Product 2 Design 15 test cases (Objective / Input / Steps / Expected / Actual / Verdict). Execute ≥ 5 test cases on the real device and record short videos (≤ 60s). hãy viết test case cho t, đây là cây quạt t chuẩn bị test, viết bằng tiếng anh, gửi file md: [https://cellphones.com.vn/quat-cam-tay-mini-goojodoq-gfs001.html](https://cellphones.com.vn/quat-cam-tay-mini-goojodoq-gfs001.html)" |
+| (2) AI output | ![alt text](image-17.png) [requirement 3 template md AI sent](./Goojodoq_GFS001_QA_Test_Cases.md)|
+| (3) Verdict | **INCOMPLETE** |
+| (4) Reasoning | The AI gave useful basic test cases for the fan, but it mostly focused on normal use. It missed some edge cases, so the coverage was not enough for real-device testing. |
+| (5) Student fix | I added the missing edge cases: pressing `+` and `-` very fast, plugging charger while the fan is running, and pressing buttons when the switch is off. |
+
+| Item | Content |
+|---|---|
+| (1) Prompt + tool | **Tool:** Gemini<br>**Timestamp:** `[7:59 4/6/2026]`<br>**Prompt:** "gen cho t code mermaid vẽ QA/QC role mindmap (dựa trên ISTQB)" |
+| (2) AI output | ![alt text](image-20.png)|
+| (3) Verdict | **INCOMPLETE** |
+| (4) Reasoning | put debugging under testers, said component testing is usually tester work, and mixed roles with activities. |
+| (5) Student fix | I corrected the mindmap by moving debugging and component testing to developers. I also separated QA/QC roles from QA/QC activities. |
+
+
+| Item | Content |
+|---|---|
+| (1) Prompt + tool | **Tool:** ChatGPT<br>**Timestamp:** `[12:15 1/6/2026]`<br>**Prompt:** "you are an expert in QA/QC Vietnam job market. Find 10 QA/QC job postings PUBLISHED WITHIN 60 DAYS. Mandatory: ≥ 3 positions REQUIRING AI/LLM/automation-AI skills. Each posting: link,  job description, required skills, salary. Write 1–2 sentences of AI Impact Analysis per posting." |
+| (2) AI output | ![alt text](image-18.png)|
+| (3) Verdict | **VALID** |
+| (4) Reasoning | Requirement 1 was mostly good. The AI found suitable QA/QC job information and the content matched the job-market requirement. I did not find any big mistake in this part. |
+| (5) Student fix | I reviewed the jobs, added screenshots, and adjusted small wording in the report. No major correction was needed. |
+
+
+| Item | Content |
+|---|---|
+| (1) Prompt + tool | **Tool:** Gemini<br>**Timestamp:** `[12:31 1/6/]`<br>**Prompt:** "Requirement 2 – 20 Software Defects 2022–2026 (20 pts) Find 20 software defects publicized between 2022 and 2026. Mandatory: ≥ 5 defects related to AI LLM (hallucination, prompt injection, bias). Each defect: source link, description, severity, consequences, solution." |
+| (2) AI output | ![alt text](image-15.png)|
+| (3) Verdict | **INCOMPLETE** |
+| (4) Reasoning | Requirement 2 was useful, but some source links from the AI were dead. So, I could not use all AI sources directly. |
+| (5) Student fix | I checked the links again and replaced dead links with other working article or official source links. I also edited the defect information to match the new sources. |
+
+**AI accuracy ratio:** VALID `25%` (1/4), INVALID `0%` (0/4), INCOMPLETE `75%` (3/4).  
+**Conclusion:** AI should be used for brainstorming, first drafts. It should not be used for final results or source links without human checking.
+
+## Appendix B - AI Critique Draft
+
+AI helped me make the report faster, but I still needed to check it. For Requirement 1, the job information was mostly good. But the mindmap had some mistakes, such as putting debugging under testers and saying component testing is usually tester work.
+
+For Requirement 2, AI gave useful defect ideas, but some links were dead. I had to find other working sources. For Requirement 3, AI made normal fan test cases, but it missed edge cases like pressing `+` and `-` fast, charging while running, and pressing buttons when the switch is off.
+
+I learned that AI is good for first draft and ideas. But I should not trust it fully. I still need to check links, fix wrong parts, and add my own testing ideas.
+
+## Appendix C - Mandatory AI Disclosure
+
+`Requirement 1, 2, 3 template` were initially generated with `Gemini vs ChatGPT`. Requirement 1 is fine. Requirement 2 contains some dead urls, so I have fixed those failed links. Requirement 3 template is mostly correct, so I just need to do testing and fill in the actual results. I also corrected the AI's QA/QC mindmap mistakes. The physical-device photo, execution videos, and final actual results were produced and verified by me. I confirm I did not use AI to generate any output listed in the prohibited category.
+
+## Self-Assessment
+
+| No. | Criteria | Max Grade | Self-Assessed Grade | Note |
+|---|---|---:|---:|---|
+| 1 | Job Market 2026+ (10 jobs × 3 pts + AI Impact) | 40 | 36 | 10 jobs included, AI impact written, screenshots added. Some job links/details may still need final checking. |
+| 2 | Software Defects 2022-2026 (20 defects) | 20 | 18 | 20 defects included with AI blind spot. Some AI links were dead and replaced manually. |
+| 3 | Physical-product test design (15 TCs + 5 videos) | 25 | 21 | 15 test cases, photo, actual results, and video evidence included. Edge cases are explained separately. |
+| AI-1 | AI-02 AI Audit Report (5-section) attached | 8 | 7 | Audit report included for main AI artifacts, with verdict, reasoning, and student fix. |
+| AI-2 | AI Critique 200-300 words + AI-03 Disclosure attached | 4 | 3 | Disclosure is included. AI critique is included but still simple and short. |
+| AI-3 | AI-05 Checklist signed + anti-cheat artifacts | 3 | 1 | Main evidence files are included, but signed checklist/template files still need final attachment. |
+| Total |  | 100 | 87 | Self-assessed grade: **087/100** |
