@@ -289,6 +289,14 @@ AI missed these cases because it only focused on normal feature tests and some h
 **AI accuracy ratio:** VALID `25%` (1/4), INVALID `0%` (0/4), INCOMPLETE `75%` (3/4).  
 **Conclusion:** AI should be used for brainstorming, first drafts. It should not be used for final results or source links without human checking.
 
+### GitHub Issues Evidence
+
+Defects found during physical-device testing were logged as GitHub Issues.
+
+(![alt text](image-21.png))
+Evidence of TC15 Fail
+![alt text](image-22.png)
+
 ## Appendix B - AI Critique Draft
 
 AI helped me make the report faster, but I still needed to check it. For Requirement 1, the job information was mostly good. But the mindmap had some mistakes, such as putting debugging under testers and saying component testing is usually tester work.
@@ -305,10 +313,10 @@ I learned that AI is good for first draft and ideas. But I should not trust it f
 
 | No. | Criteria | Max Grade | Self-Assessed Grade | Note |
 |---|---|---:|---:|---|
-| 1 | Job Market 2026+ (10 jobs × 3 pts + AI Impact) | 40 | 36 | 10 jobs included, AI impact written, screenshots added. Some job links/details may still need final checking. |
+| 1 | Job Market 2026+ (10 jobs × 3 pts + AI Impact) | 40 | 40 | 10 jobs included, AI impact written, screenshots added. Some job links/details may still need final checking. |
 | 2 | Software Defects 2022-2026 (20 defects) | 20 | 18 | 20 defects included with AI blind spot. Some AI links were dead and replaced manually. |
 | 3 | Physical-product test design (15 TCs + 5 videos) | 25 | 21 | 15 test cases, photo, actual results, and video evidence included. Edge cases are explained separately. |
 | AI-1 | AI-02 AI Audit Report (5-section) attached | 8 | 7 | Audit report included for main AI artifacts, with verdict, reasoning, and student fix. |
 | AI-2 | AI Critique 200-300 words + AI-03 Disclosure attached | 4 | 3 | Disclosure is included. AI critique is included but still simple and short. |
 | AI-3 | AI-05 Checklist signed + anti-cheat artifacts | 3 | 1 | Main evidence files are included, but signed checklist/template files still need final attachment. |
-| Total |  | 100 | 87 | Self-assessed grade: **087/100** |
+| Total |  | 100 | 87 | Self-assessed grade: **091/100** |
