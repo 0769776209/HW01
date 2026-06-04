@@ -1,6 +1,7 @@
 # Report HW01
 **Student Name:** Lee Kun Da  
 **Student ID:** 23127035
+https://github.com/0769776209/HW01
 
 ## Requirement 1
 
@@ -238,15 +239,6 @@ These cases are important because real users may use the fan quickly, charge it 
 
 **explanation:**  
 AI missed these cases because it only focused on normal feature tests and some happy paths. It did not think about edge cases: fast press actions, charging during use or storage safety. Maybe because of AI is lack of human experience so it cannot cover those cases.
-
-## Notes for Submission
-
-1. Replace the serial number placeholder with the real serial number and mask the middle 4 characters.  
-   Example: `GF25-****-0198`.
-2. Add the real photo of the fan and student ID card in the same frame.
-3. Record at least 5 videos, each 60 seconds or less.
-4. Fill in the **Actual Result** and **Verdict** columns after testing.
-5. Do not claim a test case passed unless it was executed on the real device.
 
 ---
 
