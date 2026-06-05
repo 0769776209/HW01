@@ -8,6 +8,7 @@ https://github.com/0769776209/HW01
 ### 🍕 Pizza 4P’s — [HCM] QA Automation Engineer
 
 * **Context:** Posted 2026-05-19 | Deadline: 2026-06-18 | Official career page.
+* **Link:** [https://pizza4ps.com/vn/career_findjobs_post/?job_id=54868&job_name=%5BHCM%5D+QA+Automation+Engineer&lang=english](https://pizza4ps.com/vn/career_findjobs_post/?job_id=54868&job_name=%5BHCM%5D+QA+Automation+Engineer&lang=english)
 * **Core Focus:** Enforce product reliability through structured QC and test automation across web, mobile, API, desktop, and device-level systems.
 * **Requirements:** Degree in CS/IT; 2+ years QA/QC; Selenium, Cypress, TestNG, Appium, or JUnit; Python, Java, or JS; API & SQL validation; CI/CD workflows.
 * **Salary:** Negotiate
@@ -18,6 +19,7 @@ https://github.com/0769776209/HW01
 ### 🤖 Zen8Labs — Software QA Engineer (AI-first mindset)
 
 * **Context:** Posted 2026-05-30 | Deadline: Unspecified | ITviec.
+* **Link:** [https://itviec.com/viec-lam-it/software-qa-engineer-ai-first-mindset-zen8labs-5907?lab_feature=employer_job](https://itviec.com/viec-lam-it/software-qa-engineer-ai-first-mindset-zen8labs-5907?lab_feature=employer_job)
 * **Core Focus:** Use AI/Agentic AI tools to accelerate test analysis, generate/validate scenarios, improve coverage, and perform AI-assisted defect analysis.
 * **Requirements:** 4+ years software testing; experience with complex distributed systems; Selenium, Playwright, Cypress, or Robot Framework; JS, Java, or Python; fluency in Cursor, Claude, Copilot, or ChatGPT.
 * **Salary:** up to $2000
@@ -28,6 +30,7 @@ https://github.com/0769776209/HW01
 ### 💾 Nakivo — Automation QA Engineer
 
 * **Context:** Posted 2026-05-21 | Deadline: Unspecified | ITviec.
+* **Link:** [https://itviec.com/it-jobs/automation-qa-engineer-qa-qc-tester-automation-test-nakivo-0115](https://itviec.com/it-jobs/automation-qa-engineer-qa-qc-tester-automation-test-nakivo-0115)
 * **Core Focus:** Collaborate with devs to design, create, and manage automated scripts and test cases leveraging AI technologies.
 * **Requirements:** Degree in CS/Engineering; 3+ years in QA/automation roles; Java, Python, or C#; Selenium, Appium, Git; hands-on with Copilot, Cursor, or Perplexity.
 * **Salary:** up to $1100 - $1500
@@ -38,6 +41,7 @@ https://github.com/0769776209/HW01
 ### 🚚 Ahamove — Lead QC Engineer (Automation & Gen AI)
 
 * **Context:** Posted 2026-05-21 | Deadline: Unspecified | ITviec.
+* **Link:** [https://itviec.com/it-jobs/lead-qc-engineer-automation-gen-ai-ahamove-5550](https://itviec.com/it-jobs/lead-qc-engineer-automation-gen-ai-ahamove-5550)
 * **Core Focus:** Spearhead the transition into AI-augmented QE. Build prompt libraries, deploy AI agents, utilize Claude Code, inject AI insights into CI/CD (GitLab/Jenkins), and develop LLM-based self-healing testing layers.
 * **Requirements:** 5–7 years QA/QC (2+ years in leadership); Expert Python, JS, TS, or Java; Playwright, Cypress, Selenium; Docker, K8s, and cloud-native architecture.
 * **Salary:** Negotiate
@@ -48,6 +52,7 @@ https://github.com/0769776209/HW01
 ### 📊 Nakivo — QA Team Lead
 
 * **Context:** Posted 2026-05-29 | Deadline: Unspecified | ITviec.
+* **Link:** [https://itviec.com/it-jobs/qa-team-lead-nakivo-3715](https://itviec.com/it-jobs/qa-team-lead-nakivo-3715)
 * **Core Focus:** Release-quality ownership, team mentoring, KPI/process design, and introducing AI-assisted QA workflows where they provide measurable value.
 * **Requirements:** 6+ years in testing with 3+ years in a lead role; advanced test automation and regression strategies; risk-based early testing.
 * **Salary:** $2500 - $3000
@@ -58,6 +63,7 @@ https://github.com/0769776209/HW01
 ### 🏢 KMS Technology — Senior Manual Test Engineer (QA/QC)
 
 * **Context:** HCMC or Da Nang | Posted 2026-05-25 | Deadline: Unspecified | ITviec.
+* **Link:** [https://itviec.com/it-jobs/senior-manual-test-engineer-qa-qc-kms-technology-3100](https://itviec.com/it-jobs/senior-manual-test-engineer-qa-qc-kms-technology-3100)
 * **Core Focus:** End-to-end product testing, sprint planning, customer collaboration, and mentoring junior engineers.
 * **Requirements:** 5+ years of manual testing depth (exploratory, risk-based, STLC); intermediate English; Nice-to-have: test automation and daily use of AI tools (Copilot, Cursor, Claude Code).
 * **Salary:** Negotiate
@@ -68,6 +74,7 @@ https://github.com/0769776209/HW01
 ### 💳 Ingenico Vietnam — QA Engineer (Manual/ Automation)
 
 * **Context:** Posted 2026-05-27 | Deadline: Unspecified | ITviec.
+* **Link:** [https://itviec.com/it-jobs/qa-engineer-automation-upto-3000-ingenico-vietnam-5823](https://itviec.com/it-jobs/qa-engineer-automation-upto-3000-ingenico-vietnam-5823)
 * **Core Focus:** Automate Android and web features, build reusable automation frameworks from scratch using Python/OOP, and coordinate with stakeholders.
 * **Requirements:** 5+ years in QA; strong English skills; expertise in Robot Framework, Serenity, Katalon, Cypress, Appium, or Selenium; CI/CD pipeline integration.
 * **Salary:** $1000 - $3000
@@ -78,6 +85,7 @@ https://github.com/0769776209/HW01
 ### 💎 PNJ — Senior QC (Automation Tester)
 
 * **Context:** Posted 2026-05-20 | Deadline: Unspecified | ITviec.
+* **Link:** [https://itviec.com/it-jobs/senior-qc-automation-tester-qa-qc-pnj-5542](https://itviec.com/it-jobs/senior-qc-automation-tester-qa-qc-pnj-5542)
 * **Core Focus:** Validate both traditional and AI-driven features, evaluate LLM outputs (accuracy, fairness, reliability), use synthetic data, and monitor long-term model performance.
 * **Requirements:** Senior automation profile; API and A/B testing; CI/CD maintenance; data quality awareness (completeness, privacy handling).
 * **Salary:** $1000 - $1500
@@ -88,6 +96,7 @@ https://github.com/0769776209/HW01
 ### 🧬 Gene Solutions — Software Tester (QA QC, SQL)
 
 * **Context:** Posted 2026-05-28 | Deadline: Unspecified | ITviec.
+* **Link:** [https://itviec.com/it-jobs/software-tester-qa-qc-sql-gene-solutions-0129](https://itviec.com/it-jobs/software-tester-qa-qc-sql-gene-solutions-0129)
 * **Core Focus:** Functional, UI, and role-based web testing; write test cases; run database validations using SQL; execute basic API testing via Postman.
 * **Requirements:** 1–3 years of manual QC experience; intermediate SQL and Postman skills; English reading proficiency. Automation is a plus.
 * **Salary:** Negotiate
@@ -98,6 +107,7 @@ https://github.com/0769776209/HW01
 ### 🌐 FPT Software — Process Quality Assurance (PQA)
 
 * **Context:** Posted 2026-05-30 | Deadline: Unspecified | ITviec.
+* **Link:** [https://itviec.com/it-jobs/process-quality-assurance-pqa-qa-qc-fpt-software-3809](https://itviec.com/it-jobs/process-quality-assurance-pqa-qa-qc-fpt-software-3809)
 * **Core Focus:** Audit project-process compliance, ensure system standards (CMMi), compile quality metrics, and manage delivery readiness reports.
 * **Requirements:** Heavy data analysis skills; Excel mastery; cross-functional communication under pressure; IELTS 7.0 (or equiv) and Japanese N2.
 * **Salary:** Negotiate
@@ -166,13 +176,7 @@ Below is a compiled list of 20 notable software defects from 2022 to 2026. The f
 
 Submit **1 photo** showing the **GOOJODOQ GFS001 fan and student ID card in the same frame**.
 
-[PHYSICAL DEVICE + STUDENT CARD](./minhchung.png)
-
-### Video Evidence Requirement
-
-Execute at least **5 test cases** on the real device and record short videos, each **60 seconds or less**.
-
-Recommended test cases to record: **TC-001, TC-002, TC-003, TC-004, TC-005**.
+![PHYSICAL DEVICE + STUDENT CARD](./minhchung.png)
 
 ---
 
@@ -214,11 +218,11 @@ Recommended test cases to record: **TC-001, TC-002, TC-003, TC-004, TC-005**.
 
 | Test Case ID | Video Filename | Duration | Actual Result Summary | Verdict |
 |---|---|---:|---|---|
-| TC-001 | [link](https://youtube.com/shorts/t0WQLlVMuxU) | ≤ 60s | Fan turned on; LED displayed info. | Pass |
-| TC-002 | [link](https://youtube.com/shorts/S9IPc6Baanw?feature=share) | ≤ 60s | Fan turned off; blade stopped. | Pass |
-| TC-003 | [link](https://youtube.com/shorts/9LDMiMjouaU) | ≤ 60s | Speed increased; airflow stronger. | Pass |
-| TC-004 | [link](https://youtube.com/shorts/4S4EsrKwy_0) | ≤ 60s | Speed decreased; airflow weaker. | Pass |
-| TC-005 | [link](https://youtube.com/shorts/3NVAcsE9Nhg) | ≤ 60s | LED showed not clearly. | Fail |
+| TC-001 | [https://youtube.com/shorts/t0WQLlVMuxU](https://youtube.com/shorts/t0WQLlVMuxU) | ≤ 60s | Fan turned on; LED displayed info. | Pass |
+| TC-002 | [https://youtube.com/shorts/S9IPc6Baanw?feature=share](https://youtube.com/shorts/S9IPc6Baanw?feature=share) | ≤ 60s | Fan turned off; blade stopped. | Pass |
+| TC-003 | [https://youtube.com/shorts/9LDMiMjouaU](https://youtube.com/shorts/9LDMiMjouaU) | ≤ 60s | Speed increased; airflow stronger. | Pass |
+| TC-004 | [https://youtube.com/shorts/4S4EsrKwy_0](https://youtube.com/shorts/4S4EsrKwy_0) | ≤ 60s | Speed decreased; airflow weaker. | Pass |
+| TC-005 | [https://youtube.com/shorts/3NVAcsE9Nhg](https://youtube.com/shorts/3NVAcsE9Nhg) | ≤ 60s | LED showed not clearly. | Fail |
 
 ---
 
@@ -244,39 +248,77 @@ AI missed these cases because it only focused on normal feature tests and some h
 
 ## Appendix A - AI Audit Report
 
-| Item | Content |
-|---|---|
-| (1) Prompt + tool | **Tool:** ChatGPT<br>**Timestamp:** `[8:19 4/6/2026]`<br>**Prompt:** "Requirement 3 – Test cases for ONE physical product (40 pts) Choose a SPECIFIC household device (fan / water filter / rice cooker / smart bulb…). Submit 1 photo of THE DEVICE + your student ID card in the SAME frame. Declare brand, model, year, serial number (mask the middle 4 chars). HW01 – QA/QC Jobs · 20 Defects · Test a Physical Product 2 Design 15 test cases (Objective / Input / Steps / Expected / Actual / Verdict). Execute ≥ 5 test cases on the real device and record short videos (≤ 60s). hãy viết test case cho t, đây là cây quạt t chuẩn bị test, viết bằng tiếng anh, gửi file md: [https://cellphones.com.vn/quat-cam-tay-mini-goojodoq-gfs001.html](https://cellphones.com.vn/quat-cam-tay-mini-goojodoq-gfs001.html)" |
-| (2) AI output | ![alt text](image-17.png) [requirement 3 template md AI sent](./Goojodoq_GFS001_QA_Test_Cases.md)|
-| (3) Verdict | **INCOMPLETE** |
-| (4) Reasoning | The AI gave useful basic test cases for the fan, but it mostly focused on normal use. It missed some edge cases, so the coverage was not enough for real-device testing. |
-| (5) Student fix | I added the missing edge cases: pressing `+` and `-` very fast, plugging charger while the fan is running, and pressing buttons when the switch is off. |
+### Artifact 1 - Requirement 3 Test Cases
 
-| Item | Content |
-|---|---|
-| (1) Prompt + tool | **Tool:** Gemini<br>**Timestamp:** `[7:59 4/6/2026]`<br>**Prompt:** "gen cho t code mermaid vẽ QA/QC role mindmap (dựa trên ISTQB)" |
-| (2) AI output | ![alt text](image-20.png)|
-| (3) Verdict | **INCOMPLETE** |
-| (4) Reasoning | put debugging under testers, said component testing is usually tester work, and mixed roles with activities. |
-| (5) Student fix | I corrected the mindmap by moving debugging and component testing to developers. I also separated QA/QC roles from QA/QC activities. |
+**(1) Prompt + tool:**  
+**Tool:** ChatGPT  
+**Timestamp:** 8:19 4/6/2026  
+**Prompt:** "Requirement 3 – Test cases for ONE physical product (40 pts) Choose a SPECIFIC household device (fan / water filter / rice cooker / smart bulb…). Submit 1 photo of THE DEVICE + your student ID card in the SAME frame. Declare brand, model, year, serial number (mask the middle 4 chars). HW01 – QA/QC Jobs · 20 Defects · Test a Physical Product 2 Design 15 test cases (Objective / Input / Steps / Expected / Actual / Verdict). Execute ≥ 5 test cases on the real device and record short videos (≤ 60s). hãy viết test case cho t, đây là cây quạt t chuẩn bị test, viết bằng tiếng anh, gửi file md: [https://cellphones.com.vn/quat-cam-tay-mini-goojodoq-gfs001.html](https://cellphones.com.vn/quat-cam-tay-mini-goojodoq-gfs001.html)"
 
+**(2) AI output:**  
+The AI generated a Markdown file for the GOOJODOQ GFS001 fan. The output included product information, photo/video evidence requirements, 15 normal test cases, and a video evidence log template for TC-001 to TC-005. The generated file is [Goojodoq_GFS001_QA_Test_Cases.md](./Goojodoq_GFS001_QA_Test_Cases.md). Because the full output is long, see [prompt_log.md](./prompt_log.md), Prompt 04, for the complete AI output.
 
-| Item | Content |
-|---|---|
-| (1) Prompt + tool | **Tool:** ChatGPT<br>**Timestamp:** `[12:15 1/6/2026]`<br>**Prompt:** "you are an expert in QA/QC Vietnam job market. Find 10 QA/QC job postings PUBLISHED WITHIN 60 DAYS. Mandatory: ≥ 3 positions REQUIRING AI/LLM/automation-AI skills. Each posting: link,  job description, required skills, salary. Write 1–2 sentences of AI Impact Analysis per posting." |
-| (2) AI output | ![alt text](image-18.png)|
-| (3) Verdict | **VALID** |
-| (4) Reasoning | Requirement 1 was mostly good. The AI found suitable QA/QC job information and the content matched the job-market requirement. I did not find any big mistake in this part. |
-| (5) Student fix | I reviewed the jobs, added screenshots, and adjusted small wording in the report. No major correction was needed. |
+**(3) Verdict:** **INCOMPLETE**
 
+**(4) Reasoning:**  
+The AI gave useful basic test cases for the fan, but it mostly focused on normal use. It missed some edge cases, so the coverage was not enough for real-device testing.
 
-| Item | Content |
-|---|---|
-| (1) Prompt + tool | **Tool:** Gemini<br>**Timestamp:** `[12:31 1/6/]`<br>**Prompt:** "Requirement 2 – 20 Software Defects 2022–2026 (20 pts) Find 20 software defects publicized between 2022 and 2026. Mandatory: ≥ 5 defects related to AI LLM (hallucination, prompt injection, bias). Each defect: source link, description, severity, consequences, solution." |
-| (2) AI output | ![alt text](image-15.png)|
-| (3) Verdict | **INCOMPLETE** |
-| (4) Reasoning | Requirement 2 was useful, but some source links from the AI were dead. So, I could not use all AI sources directly. |
-| (5) Student fix | I checked the links again and replaced dead links with other working article or official source links. I also edited the defect information to match the new sources. |
+**(5) Student fix:**  
+I added the missing edge cases: pressing `+` and `-` very fast, plugging charger while the fan is running, and pressing buttons when the switch is off.
+
+### Artifact 2 - QA/QC Role Mindmap
+
+**(1) Prompt + tool:**  
+**Tool:** Gemini  
+**Timestamp:** 7:59 4/6/2026  
+**Prompt:** "gen cho t code mermaid vẽ QA/QC role mindmap (dựa trên ISTQB)"
+
+**(2) AI output:**  
+The AI generated Mermaid mindmap code about QA/QC roles. It separated QA as process-focused work and QC as product-focused work, then added ISTQB-style roles such as Test Manager and Tester. It also listed tasks like test planning, monitoring, test analysis, test design, test execution, debugging, and defect reporting. Because the full output is long, see [prompt_log.md](./prompt_log.md), Prompt 03, for the complete AI output.
+
+**(3) Verdict:** **INCOMPLETE**
+
+**(4) Reasoning:**  
+The mindmap put debugging under testers, said component testing is usually tester work, and mixed roles with activities.
+
+**(5) Student fix:**  
+I corrected the mindmap by moving debugging and component testing to developers. I also separated QA/QC roles from QA/QC activities.
+
+### Artifact 3 - Requirement 1 Job Market
+
+**(1) Prompt + tool:**  
+**Tool:** ChatGPT  
+**Timestamp:** 12:15 1/6/2026  
+**Prompt:** "you are an expert in QA/QC Vietnam job market. Find 10 QA/QC job postings PUBLISHED WITHIN 60 DAYS. Mandatory: ≥ 3 positions REQUIRING AI/LLM/automation-AI skills. Each posting: link, job description, required skills, salary. Write 1–2 sentences of AI Impact Analysis per posting."
+
+**(2) AI output:**  
+The AI generated a Vietnam QA/QC job-market snapshot. It included an executive summary, salary basis, comparison table, and detailed profiles for 10 QA/QC jobs such as Pizza 4P’s, Zen8Labs, Nakivo, Ahamove, KMS Technology, Ingenico, PNJ, Gene Solutions, and FPT Software. It also explained AI impact for the roles, especially automation, LLM, GenAI, and AI-assisted QA skills. Because the full output is very long, see [prompt_log.md](./prompt_log.md), Prompt 01, for the complete AI output.
+
+**(3) Verdict:** **VALID**
+
+**(4) Reasoning:**  
+Requirement 1 was mostly good. The AI found suitable QA/QC job information and the content matched the job-market requirement. I did not find any big mistake in this part.
+
+**(5) Student fix:**  
+I reviewed the jobs, added screenshots, and adjusted small wording in the report. No major correction was needed.
+
+### Artifact 4 - Requirement 2 Software Defects
+
+**(1) Prompt + tool:**  
+**Tool:** Gemini  
+**Timestamp:** 12:31 1/6/2026  
+**Prompt:** "Requirement 2 – 20 Software Defects 2022–2026 (20 pts) Find 20 software defects publicized between 2022 and 2026. Mandatory: ≥ 5 defects related to AI LLM (hallucination, prompt injection, bias). Each defect: source link, description, severity, consequences, solution."
+
+**(2) AI output:**  
+The AI generated a list of 20 software defects from 2022 to 2026. The output included AI/LLM-related incidents such as Air Canada Chatbot, OpenAI Redis Leak, Google Gemini Image, Copilot Studio SSRF, Chevy Tahoe Bot, NYC MyCity Bot, and DPD Chatbot. It also included other major software incidents such as CrowdStrike BSOD, XZ Utils Backdoor, MoveIT Zero-Day, AT&T outage, FAA NOTAM, Spring4Shell, Toyota T-Connect, KakaoTalk outage, Change Healthcare, Optus BGP Loop, 23andMe API, and AnyDesk breach. Because the full output is long, see [prompt_log.md](./prompt_log.md), Prompt 02, for the complete AI output.
+
+**(3) Verdict:** **INCOMPLETE**
+
+**(4) Reasoning:**  
+Requirement 2 was useful, but some source links from the AI were dead. So, I could not use all AI sources directly.
+
+**(5) Student fix:**  
+I checked the links again and replaced dead links with other working article or official source links. I also edited the defect information to match the new sources.
 
 **AI accuracy ratio:** VALID `25%` (1/4), INVALID `0%` (0/4), INCOMPLETE `75%` (3/4).  
 **Conclusion:** AI should be used for brainstorming, first drafts. It should not be used for final results or source links without human checking.
@@ -285,7 +327,7 @@ AI missed these cases because it only focused on normal feature tests and some h
 
 Defects found during physical-device testing were logged as GitHub Issues.
 
-(![alt text](image-21.png))
+![alt text](image-21.png)
 Evidence of TC15 Fail
 ![alt text](image-22.png)
 
@@ -305,10 +347,10 @@ I learned that AI is good for first draft and ideas. But I should not trust it f
 
 | No. | Criteria | Max Grade | Self-Assessed Grade | Note |
 |---|---|---:|---:|---|
-| 1 | Job Market 2026+ (10 jobs × 3 pts + AI Impact) | 40 | 40 | 10 jobs included, AI impact written, screenshots added. Some job links/details may still need final checking. |
-| 2 | Software Defects 2022-2026 (20 defects) | 20 | 18 | 20 defects included with AI blind spot. Some AI links were dead and replaced manually. |
-| 3 | Physical-product test design (15 TCs + 5 videos) | 25 | 21 | 15 test cases, photo, actual results, and video evidence included. Edge cases are explained separately. |
+| 1 | Job Market 2026+ (10 jobs × 3 pts + AI Impact) | 40 | 40 | Completed 10 recent QA/QC job postings with skills, salary, screenshots, and AI impact analysis. |
+| 2 | Software Defects 2022-2026 (20 defects) | 20 | 20 | Completed 20 software defect entries with source, severity, consequence, solution, and AI hallucination/bias note. |
+| 3 | Physical-product test design (15 TCs + 5 videos) | 25 | 25 | Completed 15 physical-device test cases with actual results, verdicts, photo evidence, video evidence, and AI-missed edge cases. |
 | AI-1 | AI-02 AI Audit Report (5-section) attached | 8 | 7 | Audit report included for main AI artifacts, with verdict, reasoning, and student fix. |
 | AI-2 | AI Critique 200-300 words + AI-03 Disclosure attached | 4 | 3 | Disclosure is included. AI critique is included but still simple and short. |
 | AI-3 | AI-05 Checklist signed + anti-cheat artifacts | 3 | 1 | Main evidence files are included, but signed checklist/template files still need final attachment. |
-| Total |  | 100 | 87 | Self-assessed grade: **091/100** |
+| Total |  | 100 | 96 | Self-assessed grade: **096/100** |
